@@ -72,8 +72,8 @@ npm -v
 **1. Clone o repositório**
 
 ```bash
-git clone https://github.com/SEU-USUARIO/api-connect-nome-sobrenome.git
-cd api-connect-nome-sobrenome
+git clone https://github.com/SEU-USUARIO/api-connect-marlon-severo.git
+cd api-connect-marlon-severo
 ```
 
 **2. Instale as dependências**
